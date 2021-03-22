@@ -1,0 +1,11 @@
+{
+  "name": "dayjs-shanghai",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:wangsijie/dayjs-shanghai.git",
+  "author": "wangsijie <i@sijie.wang>",
+  "license": "MIT",
+  "dependencies": {
+    "dayjs": "^1.10.4"
+  }
+}
